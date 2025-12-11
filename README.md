@@ -60,6 +60,7 @@ project/
 ├── Dockerfile              # Docker образ
 ├── docker-compose.yml      # Docker Compose
 └── pyproject.toml          # Зависимости проекта
+```
 
 ### Ключевые компоненты
 
